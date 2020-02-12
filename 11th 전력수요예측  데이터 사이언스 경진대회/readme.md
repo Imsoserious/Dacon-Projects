@@ -1,4 +1,3 @@
-1. **EDA** - Intro(data description, objective, etc), missing value, outlier, usage partterns
-2. **Preprocessing** - Dealing with missing value & outlier
-3. **Modeling** - Comparing time series models: SARIMAX, Prophet, TBATS, CNN-LSTM(or LSTM)
-4. **Result** - Pros & cons of each model, final scores, etc
+1. **EDA** - 코드 실종..
+2. **Preprocessing** - seasonal mean 등 4가지 방법 중 가장 성능이 좋았던 LGBM으로 결측치 보간
+3. **Modeling** - SARIMAX, Prophet, TBATS, CNN-LSTM을 비교했으며 최종적으로는 SARIMAX가 선택
